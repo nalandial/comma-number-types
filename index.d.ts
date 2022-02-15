@@ -1,5 +1,5 @@
 declare module 'comma-number' {
-    export function commaNumber(
+    export default function commaNumber(
         number: number | string,
         separator?: string,
         decimalChar?: string
