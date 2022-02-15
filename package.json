@@ -1,0 +1,10 @@
+{
+  "name": "@types/comma-number",
+  "version": "2.1.0",
+  "author": {
+    "name": "Alex Beardsley",
+    "email": "alex@alexbeardsley.com",
+    "url": "https://github.com/nalandial/comma-number-types"
+  },
+  "typings": "index.d.ts"
+}
